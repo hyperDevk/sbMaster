@@ -1,0 +1,15 @@
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\bin\AnyCPU\Debug\ColorBasics-WPF.exe.config
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\bin\AnyCPU\Debug\ColorBasics-WPF.exe
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\bin\AnyCPU\Debug\ColorBasics-WPF.pdb
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\smartBooth.csprojResolveAssemblyReference.cache
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\MainWindow.baml
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\MainWindow.g.cs
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\App.g.cs
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\ColorBasics-WPF.g.resources
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\smartBooth.csproj.GenerateResource.Cache
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\ColorBasics-WPF.exe
+C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\ColorBasics-WPF.pdb
