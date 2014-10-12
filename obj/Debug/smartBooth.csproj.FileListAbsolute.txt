@@ -13,3 +13,6 @@ C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\Microsoft.Sam
 C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\smartBooth.csproj.GenerateResource.Cache
 C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\ColorBasics-WPF.exe
 C:\Users\hyper\Desktop\kinect\proyecto_cabina\smartBooth\obj\Debug\ColorBasics-WPF.pdb
+D:\workspace\GIT\sbMaster\bin\AnyCPU\Debug\ColorBasics-WPF.exe.config
+D:\workspace\GIT\sbMaster\obj\Debug\ColorBasics-WPF.exe
+D:\workspace\GIT\sbMaster\obj\Debug\ColorBasics-WPF.pdb
